@@ -1,2 +1,3 @@
 # BayesianNetwork
-To add a new repository to the git that is our project or code
+To add a code or project to a repository
+
